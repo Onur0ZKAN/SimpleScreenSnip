@@ -1,0 +1,60 @@
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe.config
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.pdb
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csprojResolveAssemblyReference.cache
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.g.cs
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\App.g.cs
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.cache
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.lref
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.baml
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.g.resources
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen_cropper.Properties.Resources.resources
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csproj.GenerateResource.Cache
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.exe
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.pdb
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.g.cs
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.baml
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.g.cs
+c:\users\onuro\documents\visual studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.baml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe.config
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.exe
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.pdb
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.pdb
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\App.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.cache
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.lref
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.baml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.baml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.baml
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.g.resources
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen_cropper.Properties.Resources.resources
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csproj.GenerateResource.Cache
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SmallAgent.g.cs
+C:\Users\Onur\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SmallAgent.baml
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe.config
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.exe
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.pdb
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.exe
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\bin\Debug\Screen cropper.pdb
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csprojResolveAssemblyReference.cache
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SmallAgent.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\App.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.cache
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper_MarkupCompile.lref
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\MainWindow.baml
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen snip window.baml
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SmallAgent.baml
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\SnippedWindow.baml
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.g.resources
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen_cropper.Properties.Resources.resources
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\Screen cropper.csproj.GenerateResource.Cache
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\VideoFrame.g.cs
+C:\Users\HP PAVILION 15\Documents\Visual Studio 2015\Projects\Screen cropper\Screen cropper\obj\Debug\VideoFrame.baml

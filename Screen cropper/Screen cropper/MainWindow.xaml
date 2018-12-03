@@ -1,0 +1,47 @@
+﻿<Window x:Class="Screen_cropper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Screen_cropper"
+        mc:Ignorable="d"  MouseDown="ClickDragMove" KeyDown="Keydown"
+        Title="MainWindow" Height="131.974" Width="154.153" WindowStyle="None" AllowsTransparency="True" Background="#0000" Opacity="1" Icon="scss.png" AllowDrop="True" Drop="ImageWnd">
+
+    <Border Background="#000" Margin="20" BorderThickness="1" BorderBrush="#082" CornerRadius="1">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="25" Direction="-90" RenderingBias="Quality" ShadowDepth="2"/>
+        </Border.Effect>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10" />
+                <RowDefinition />
+                <RowDefinition Height="5"  />
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="17"  />
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="5" />
+                <ColumnDefinition />
+                <ColumnDefinition Width="5"  />
+                <ColumnDefinition />
+                <ColumnDefinition Width="5"  />
+                <ColumnDefinition />
+                <ColumnDefinition Width="5"  />
+            </Grid.ColumnDefinitions>
+
+            <Button Foreground="Black" BorderBrush="Black" Click="ScreenSnip" Background="#cfc" FontSize="20" Padding="0,-6,0,0" Grid.Row="1" Grid.Column="1" Width="30" Height="30">
+                +
+            </Button>
+            <ToggleButton Foreground="Black" BorderBrush="Black" x:Name="Serialing" FontWeight="Bold" IsChecked="False" FontSize="16" Background="#cfc" Padding="0,-3,0,0" Grid.Row="1" Grid.Column="3" Width="30" Height="30">
+                S
+            </ToggleButton>
+            <Button Foreground="Black" BorderBrush="Black" Click="CloseW" Background="#cfc" FontSize="20" Padding="0,-6,0,0" Grid.Row="1" Grid.Column="5" Width="30" Height="30">
+                x
+            </Button>
+
+            <TextBlock Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="5" FontSize="12" VerticalAlignment="Center" FontWeight="Bold" Foreground="#0f0" HorizontalAlignment="Center" Text="Screen snip tool" />
+            <TextBlock Grid.Row="4" Grid.Column="5" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,0,3,0" Foreground="#0f0" FontSize="10" Text="v1.5 " />
+        </Grid>
+    </Border>
+</Window>

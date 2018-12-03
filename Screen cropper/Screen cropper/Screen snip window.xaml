@@ -1,0 +1,21 @@
+﻿<Window x:Class="Screen_cropper.Screen_snip_window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Screen_cropper"
+        mc:Ignorable="d" KeyDown="KeyboardHit"     
+        Title="Screen_snip_window" WindowState="Maximized" Height="300" Width="300" WindowStyle="None" AllowsTransparency="True" Background="#0000" ShowInTaskbar="False">
+
+    <Grid x:Name="Gridimage1" MouseRightButtonUp="AutoCancel" MouseLeftButtonDown="BeginDraw" MouseMove="Mousemove" >
+
+        <Image Name="ScreenShotImage" Grid.Column="0"  Margin="0" >
+        </Image>
+        
+        <Canvas x:Name="BackPanel" Margin="0,0,0,0" >
+            <Rectangle x:Name="selectionRectangle" Stroke="Black" Fill="#30c0"  />
+        </Canvas>
+    </Grid>
+
+
+</Window>
